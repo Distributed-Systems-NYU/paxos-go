@@ -1,4 +1,4 @@
-module paxos-go
+module github.com/Distributed-Systems-NYU/paxos-go
 
 go 1.15
 
